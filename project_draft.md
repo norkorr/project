@@ -1,5 +1,5 @@
 <!-- This is cut out from the original README.md file where it doesn't fit anymore. Will be cut up more and put where it belongs either here on the Wiki or in individual files on the repo proper. -->
-#project draft
+# Project draft
 
 ## Implementation
 ### Step 1: Examination of Materials

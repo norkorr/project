@@ -38,7 +38,7 @@ In brief:
     2.  Create a new branch in your desktop clone of your fork for each significant change
     3.  Commit the change in that branch
     4.  Push that branch to your fork of the repository on GitHub
-    5.  Submit a pull request from that branch to [this repository](https://github.com/uio-carpentry/organisational)
+    5.  Submit a pull request from that branch to [this repository](https://github.com/norkorr/project)
     6.  If you receive feedback,
         make changes on your desktop and push to your branch on GitHub -
         the pull request will update automatically.

@@ -25,14 +25,14 @@ We propose to present a collaborative poster at DHN2019 where we focus on five c
 
 The National Library of Norway has approximately 1.000 letters written by the Norwegian author Camilla Collett (1813–1895) in its manuscript collection. More than half of these letters have never been published. Collett’s handwriting is difficult to read, so there has been little research on them, and the library wants to make the letters more available by transcribing, encoding and publishing them. One of the publications is a digital edition containing approximately 50 letters written by Collett in the years 1841-1851. The edition is part of the library’s source edition series NB kilder, published on the e-book website Bokselskap: [http://www.bokselskap.no/boker/collettbrev1841_51/tittelside](http://www.bokselskap.no/boker/collettbrev1841_51/tittelside)
 
-![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/CC_BS.jpg)*Fig. 1. Screenshot from the digital edition*
+![](https://github.com/norkorr/project/blob/master/poster/images/CC_BS.jpg)*Fig. 1. Screenshot from the digital edition*
 
 The letters are encoded in TEI P5 XML. To get the letters registered and integrated into the CorrespSearch web service we create a CMIF file based on the metadata already recorded in the `correspDesc` element in our XML files.
 
-![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/TEI-CMIF.jpg)*Fig. 2. The process*
-![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/correspDesc.jpg)*Fig. 3. Screenshot from the CMIF file*
+![](https://github.com/norkorr/project/blob/master/poster/images/TEI-CMIF.jpg)*Fig. 2. The process*
+![](https://github.com/norkorr/project/blob/master/poster/images/correspDesc.jpg)*Fig. 3. Screenshot from the CMIF file*
 
-![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/CC_CS.jpg)*Fig. 4. Screenshot from the CorrespSearch web service, where the Collett data is searchable*
+![](https://github.com/norkorr/project/blob/master/poster/images/CC_CS.jpg)*Fig. 4. Screenshot from the CorrespSearch web service, where the Collett data is searchable*
 
 ### Case 2 – Letters to and from Norwegian Artist Edvard Munch (1863–1944)
 
@@ -42,13 +42,13 @@ Among the more than 800 senders and 400 recipients currently in our online regis
 
 A presentation of Munch’s correspondence needs to incorporate all of this to be really representative.
 
-![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/emunch.png)*Fig. 5. Screenshot from the digital edition*
+![](https://github.com/norkorr/project/blob/master/poster/images/emunch.png)*Fig. 5. Screenshot from the digital edition*
 
 ### Case 3 – Correspondence Collections of The Royal Norwegian Society for Sciences and Letters (1760–1860)
 
 The following four letter collections highlight the special collections of NTNU University Library through their international correspondence, thus showing their importance for adding them to a common database.
 
-![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/NTNU_case_sketch.png)*Fig. 6. Timeline for Collections from NTNU Gunnerus Library*
+![](https://github.com/norkorr/project/blob/master/poster/images/NTNU_case_sketch.png)*Fig. 6. Timeline for Collections from NTNU Gunnerus Library*
 
 
 |DKNVS (1760-1860)|Thorvald Boeck (15 August 1835 - 21 April 1901)|Mikael Heggelund Foslie (21 October 1855 – 9 November 1909)|Halfdan Bryn (20 May 1864 – 5 March 1933)|
@@ -65,7 +65,7 @@ The second collection, Ms 2083<sup>[12](#ubb-ms-2083)</sup>, contains around 350
 
 Finally, Ms 2155<sup>[13](#ubb-ms-2155)</sup>, the Mons Flæsland Collection, is a private collection, containing ca. 950 family letters from the period 1895-1930. The collection describes everyday life, relations and destinies through three generations of detailed family letters. This uniquely preserved collection is equally important as a reflection of social conditions and class distinctions.
 
-![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/ubb-ms-2083-b-1-09_Letter_to_DCDanielssen.jpg)*Fig. 7. Dated 20th of March 1844 this crossed letter from Ms 2083 was written by Diethelm in Frauenfeld and sent to D.C. Danielssen in Bergen.*
+![](https://github.com/norkorr/project/blob/master/poster/images/ubb-ms-2083-b-1-09_Letter_to_DCDanielssen.jpg)*Fig. 7. Dated 20th of March 1844 this crossed letter from Ms 2083 was written by Diethelm in Frauenfeld and sent to D.C. Danielssen in Bergen.*
 
 ### Case 5 – Letters from Norwegian philologist, linguist, ethnographer, and historian Just Knud Qvigstad (1853-1957)
 
@@ -77,7 +77,7 @@ During several decades, Qvigstad was involved in an extensive correspondence wit
  - Qvigstad to K. B. Wiklund (1891-1936) (96 letters), held at Uppsala University Library.
  - Qvigstad to Emil N. Setälä (1887-1935) (96 letters), held at the National Archives of Finland, prof. Setälä’s private archive.
  
- ![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/qvigstad_dokprosjekt_snapshot.png)*Fig. 8 Screenshot from the early Qvigstad digital scholarly edition by the Documention Project.*
+ ![](https://github.com/norkorr/project/blob/master/poster/images/qvigstad_dokprosjekt_snapshot.png)*Fig. 8 Screenshot from the early Qvigstad digital scholarly edition by the Documention Project.*
 
 More than 20 years have passed since the publication of these letters. The aim of the project Qvigstad’s Correspondence 2.0 at the UiT University Library is to re-edit the letters according to the requirements to a modern digital scholarly edition, including the following enhancements:
 

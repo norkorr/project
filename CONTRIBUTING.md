@@ -2,7 +2,7 @@
 
 ## How to Contribute
 
-The easiest way to get started is to [create an issue](https://github.com/uio-carpentry/organisational/issues)
+The easiest way to get started is to [create an issue](https://github.com/norkorr/project/issues)
 to tell us about a spelling mistake,
 some awkward wording,
 or a factual error.

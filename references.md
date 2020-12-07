@@ -43,3 +43,7 @@
 [Correspondence Kleiven-Prestgard](https://lokalhistoriewiki.no/wiki/Kategori:Brevsamling_Kleiven-Prestgard)
 
 [Overview over other letter and correspondence collections](https://lokalhistoriewiki.no/wiki/Kategori:Brevsamlinger)
+
+### Norsk Befolkningsregister
+
+(http://www.histreg.no/index.php/home)

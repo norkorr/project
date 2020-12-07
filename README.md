@@ -41,8 +41,15 @@ Do you want to cite this project? Look at [CITATION](CITATION.txt)
 
 Do you want to contribute to this project? Find out how to [CONTRIBUTING](CONTRIBUTING.txt)
 
-Please be especially aware of the fact that the material in this repository is licensed under a [Creative Commons Attribution 4.0 License](LICENSE.txt). Make yourself familiar with the license's content before you download or suggest files with text, code or images from/to the repo.
+## License
 
+### Texts, Images
+
+Texts and images in this repository are licensed under a [Creative Commons Attribution 4.0 License](LICENSE.txt). Make yourself familiar with the license's content before you download or suggest files with text or images from/to the repo.
+
+### Code, Scripts
+
+Code and scripts (small programs) are licensed under the [MIT license](https://spdx.org/licenses/MIT.html). You are free to use, share, distribute, and modify.
 
 # Templates for Re-use
 

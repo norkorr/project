@@ -10,8 +10,7 @@ Zoom
 
 
 ## Velkommen og innledning (10min)
-* Referat og To-Do-listen fra NorKorr-dugnad i februar 2020
-https://docs.google.com/document/d/1g_rDPEDQ1DUJiS7wxiNh8-c56P2wY5x0KM3BMGEpAxU/edit?usp=sharing 
+* [Referat og To-Do-listen fra NorKorr-dugnad i februar 2020](2020-02-14_dugnad.md)
 
 ## Kort oppdatering fra deltagere (5min hver)
 

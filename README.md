@@ -31,6 +31,8 @@ Ove Wolden (NTNU University Library, The Norwegian University of Science and Tec
 
 Evelyn Thor (NTNU University Library, The Norwegian University of Science and Technology)
 
+Nina Evensen (University of Oslo, Centre for Ibsen Studies)
+
 ## Bibliography
 
 We use a Zotero group library for the collection and management of research literature and printed editions of letters. The group is public. You can find us here: [NorKorr Zotero Group Library](https://www.zotero.org/groups/2214573/norkorr)

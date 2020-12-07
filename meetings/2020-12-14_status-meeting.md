@@ -1,8 +1,10 @@
 # Agenda til NorKorr-statusmøte
 
-2020-12-14
-Kl. 12-13
-Zoom
+|||
+|---|---|
+|Dato|2020-12-14|
+|Tid|12-13|
+|Sted|Zoom|
 
 **Til stede:**
 

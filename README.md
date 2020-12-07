@@ -37,6 +37,11 @@ Nina Evensen (University of Oslo, Centre for Ibsen Studies)
 
 We use a Zotero group library for the collection and management of research literature and printed editions of letters. The group is public. You can find us here: [NorKorr Zotero Group Library](https://www.zotero.org/groups/2214573/norkorr)
 
+## Archived Version
+
+An archived version of the initial repository for NorKorr can be found here: (https://github.com/arockenberger/NorKorr). It contains project information, especially in the Wiki and Projects, all files used for the poster created for DHN2019, and scripts for a blog-like website hosted on GitHub Pages.
+All content has been moved into new repositories under the organisation [Norkorr](github.com/norkorr). The website has been moved to the [academic blog platform Hypotheses.org](https://norkorr.hypotheses.org/)
+
 ## Contact
 
 Do you want to cite this project? Look at [CITATION](CITATION.txt)

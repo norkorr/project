@@ -1,7 +1,6 @@
 # Connecting Norwegian Correspondences – From Manuscript Catalogues to Linked Open Data
 
-Annika Rockenberger, Ph.D. – ~The National Library of Norway
-annika.rockenberger@nb.no~ University of Oslo Library annika.rockenberger@ub.uio.no (Email)
+Annika Rockenberger, Ph.D. – ~The National Library of Norway~ University of Oslo Library annika[.]rockenberger[at]ub[dot]uio[dot]no (Email)
 - @ARockenberger (Twitter)
 - @arockenberger (GitHub)
 - (http://www.annikarockenberger.com) (Personal website)

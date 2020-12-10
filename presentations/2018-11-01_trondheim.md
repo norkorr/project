@@ -11,6 +11,10 @@ Introducing Research Practices and Tools for Digital Humanities
 
 **Presented version with added links and contact information**
 
+**Archived on Zenodo.org**
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1494865.svg)](https://doi.org/10.5281/zenodo.1494865)
+
 Norwegian Correspondences is a collaborative project of a group (in alphabetical order):
 
 * Hilde Bøe, Munch Museum

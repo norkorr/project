@@ -4,7 +4,7 @@ Annika Rockenberger, Ph.D. – The National Library of Norway
 annika.rockenberger@nb.no (Email)
 @ARockenberger (Twitter)
 @arockenberger (GitHub)
-http://www.annikarockenberger.com (Website)
+(http://www.annikarockenberger.com) (Website)
 
 Introducing Research Practices and Tools for Digital Humanities
 2day Seminar at NTNU Trondheim, Nov 1–2, 2018

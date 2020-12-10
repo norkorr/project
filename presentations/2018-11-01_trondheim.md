@@ -78,7 +78,7 @@ Ok, this is nice and all, you provide some names and dates but that’s not real
 
 ## Conclusion
 
-As a conclusion – or final note – let me invite you to contribute to the Norwegian Correspondences. We develop our project in plain view on [GitHub](). We will  – and already have – put all our code for mapping catalogue and [TEI](http://www.tei-c.org/) metadata onto [CMIF](https://github.com/TEI-Correspondence-SIG/CMIF) there, there is information on the different collections and institutions; the project in general, its collaborators and plans. It will also have a website (soon) which will be hosted via GitHub.
+As a conclusion – or final note – let me invite you to contribute to the Norwegian Correspondences. We develop our project in plain view on [GitHub](https://github.com/norkorr). We will  – and already have – put all our code for mapping catalogue and [TEI](http://www.tei-c.org/) metadata onto [CMIF](https://github.com/TEI-Correspondence-SIG/CMIF) there, there is information on the different collections and institutions; the project in general, its collaborators and plans. It will also have a website (soon) which will be hosted via GitHub.
 That’s all for now – thank you for your attention and pay us a visit!
 
 ## References

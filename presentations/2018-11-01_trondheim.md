@@ -1,15 +1,15 @@
 # Connecting Norwegian Correspondences – From Manuscript Catalogues to Linked Open Data
 
-Annika Rockenberger, Ph.D. – The National Library of Norway
-annika.rockenberger@nb.no (Email)
-@ARockenberger (Twitter)
-@arockenberger (GitHub)
-(http://www.annikarockenberger.com) (Website)
+Annika Rockenberger, Ph.D. – ~The National Library of Norway
+annika.rockenberger@nb.no~ University of Oslo Library annika.rockenberger@ub.uio.no (Email)
+- @ARockenberger (Twitter)
+- @arockenberger (GitHub)
+- (http://www.annikarockenberger.com) (Personal website)
 
 Introducing Research Practices and Tools for Digital Humanities
 2day Seminar at NTNU Trondheim, Nov 1–2, 2018
 
-**Presented version with added links and contact information**
+*Presented version with added links and contact information*
 
 **Archived on Zenodo.org**
 

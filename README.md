@@ -13,11 +13,11 @@ The aim of the NorKorr project is to aggregate and provide correspondence metada
 
 ## Participants
 
+**Principal Investigator**: Annika Rockenberger (University of Oslo Library) | (https://orcid.org/0000-0001-9515-8262)
+
 Ellen Wiger (National Library of Norway)
 
 Mette Witting (National Library of Norway)
-
-Annika Rockenberger (University of Oslo Library) - (https://orcid.org/0000-0001-9515-8262)
 
 Hilde Bøe (The Munch Museum)
 

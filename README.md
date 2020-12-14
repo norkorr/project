@@ -17,7 +17,7 @@ Ellen Wiger (National Library of Norway)
 
 Mette Witting (National Library of Norway)
 
-Annika Rockenberger (University of Oslo Library)
+Annika Rockenberger (University of Oslo Library) - (https://orcid.org/0000-0001-9515-8262)
 
 Hilde Bøe (The Munch Museum)
 
@@ -57,6 +57,10 @@ Texts and images in this repository are licensed under a [Creative Commons Attri
 ### Code, Scripts
 
 Code and scripts (small programs) are licensed under the [MIT license](https://spdx.org/licenses/MIT.html). You are free to use, share, distribute, and modify.
+
+### Data
+
+Data, e.g. in tables (.csv, .tsv) or CMIF-files (.xml) are licensed under CC0 1.0 [Creative Commons Public Domain Dedication](https://spdx.org/licenses/CC0-1.0.html).
 
 # Templates for Re-use
 

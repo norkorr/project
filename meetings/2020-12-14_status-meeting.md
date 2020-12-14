@@ -17,14 +17,14 @@ Annika
 
 ## Velkommen og innledning (10min)
 * [Referat og To-Do-listen fra NorKorr-dugnad i februar 2020](2020-02-14_dugnad.md)
-- Annika orienterte om det som ble gjort av To-Do-lista fra dugnad i februar
-- To-Do-lista ble oppdatert
+  - Annika orienterte om det som ble gjort av To-Do-lista fra dugnad i februar
+  - To-Do-lista ble oppdatert
 
 ## Kort oppdatering fra deltagere (5min hver)
 
 ### Annika: generelt om prosjektet
 * [NorKorr på GitHub](https://github.com/norkorr)
-  * det gamle repositoriet har blitt arkivert, alt av innhold ble flyttet til de nye repositoriene
+  * [det gamle repositoriet](https://github.com/arockenberger/norkorr) har blitt arkivert, alt av innhold ble flyttet til de nye repositoriene
   * ny nettside (blogg) (https://norkorr.hypotheses.org/)
   * dokumentene og data i Annikas GoogleDrive har blitt flyttet til [norkorr/project](https://github.com/norkorr/project), [norkorr/hanske](https://github.com/norkorr/hanske), og [norkorr/printededitions](https://github.com/norkorr/printededitions)
   * [Zoterobibliotek](https://www.zotero.org/groups/2214573/norkorr) blir fortløpende oppdatert - bidra gjerne!
@@ -74,3 +74,4 @@ Annika
   * det tenkes høyt om en søknad til [SAMKUL](https://www.forskningsradet.no/en/about-the-research-council/programmes/samkul/), men ikke før 2022
 * flere bloggartikler, hvem stiller?
   * Ellen skal skrive sammendrag av NorKorr-2020 i januar 2021
+* Annika arkiverer DHN2019-poster på Zenodo.org 

@@ -1,0 +1,34 @@
+-------------------
+Structure for collection-repositories in the organization NorKorr on GitHub
+-------------------
+
+! Not all repositories will have all directories listed below
+! All repositories must have a README.md, a LICENSE.txt and a CONTRIBUTING.md file on the top level
+! All repositories should have a /data directory containing the CMIF files and a README.txt documenting the CMIF files
+
+norkorr/repo-name. 
+  |-- README.md. 
+  |-- LICENSE.txt (CC-BY4.0 or CC-BY-ND4.0). 
+  |-- CONTRIBUTING.md (use template). 
+  |-- .gitignore (for files that are not tracked, like .docx or .DS_Store. 
+  
+  |-- /data. 
+     |-- README.txt (use template). 
+     |-- CMIF (.xml). 
+     |-- .csv. 
+
+  |-- /src (source). 
+     |-- .ipynb (Jupyter Notebook). 
+     |-- .py (Python script)  
+     |-- .xslt. 
+
+  |-- /results. 
+     |-- README.txt  
+     |-- .gephi. 
+
+  |-- /images. 
+     |-- README.md. 
+     |-- .png. 
+     |-- .jpg. 
+
+

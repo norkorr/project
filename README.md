@@ -33,6 +33,19 @@ Evelyn Thor (NTNU University Library, The Norwegian University of Science and Te
 
 Nina Evensen (University of Oslo, Centre for Ibsen Studies)
 
+## Publications
+
+- DHN2019 poster, archived on Zenodo.org 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4322352.svg)](https://doi.org/10.5281/zenodo.4322352)
+
+- DHN2019 paper, published with [CEUR Workshop Proceedings](http://ceur-ws.org/Vol-2364/33_paper.pdf)
+
+- Talk at NTNU Trondheim, archived on Zenodo.org 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1494865.svg)](https://doi.org/10.5281/zenodo.1494865)
+
+
 ## Bibliography
 
 We use a Zotero group library for the collection and management of research literature and printed editions of letters. The group is public. You can find us here: [NorKorr Zotero Group Library](https://www.zotero.org/groups/2214573/norkorr)

@@ -33,7 +33,17 @@ Evelyn Thor (NTNU University Library, The Norwegian University of Science and Te
 
 Nina Evensen (University of Oslo, Centre for Ibsen Studies)
 
+Loke Sjølie (University of Oslo Library)
+
 ## Publications
+
+- Rockenberger, A. (2022, October 5). Norwegian Correspondences. Linking Letters in Norwegian Collections. EMunch – Edvard Munch’s Letters as a Pilot Study [SlideShow]. Digital Research Methods and Infrastructure for Correspondences, Berlin, Germany.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7147589.svg)](https://doi.org/10.5281/zenodo.7147589)
+
+- Wiger, E. N., & Rockenberger, A. (2020, August 20). Hvem skrev til hvem når og hvor? Om brevnettverk på tvers av institusjoner og samlinger [Weblog]. Historieblogg.no. 
+
+(https://www.historieblogg.no/?p=6204)
 
 - DHN2019 poster, archived on Zenodo.org 
 
@@ -46,14 +56,18 @@ Nina Evensen (University of Oslo, Centre for Ibsen Studies)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1494865.svg)](https://doi.org/10.5281/zenodo.1494865)
 
 
+## Weblog on Hypotheses.org
+
+Project updates are published on our weblog, hosted on Hypotheses.org. [NorKorr Weblog](https://norkorr.hypotheses.org/).
+
 ## Bibliography
 
-We use a Zotero group library for the collection and management of research literature and printed editions of letters. The group is public. You can find us here: [NorKorr Zotero Group Library](https://www.zotero.org/groups/2214573/norkorr)
+We use a Zotero group library for the collection and management of research literature and printed editions of letters. The group is public. You can find us here: [NorKorr Zotero Group Library](https://www.zotero.org/groups/2214573/norkorr).
 
 ## Archived Version
 
 An archived version of the initial repository for NorKorr can be found here: (https://github.com/arockenberger/NorKorr). It contains project information, especially in the Wiki and Projects, all files used for the poster created for DHN2019, and scripts for a blog-like website hosted on GitHub Pages.
-All content has been moved into new repositories under the organisation [Norkorr](github.com/norkorr). The website has been moved to the [academic blog platform Hypotheses.org](https://norkorr.hypotheses.org/)
+All content has been moved into new repositories under the organisation [Norkorr](github.com/norkorr). The website content has been moved to the academic blog platform Hypotheses.org, the [NorKorr Weblog](https://norkorr.hypotheses.org/).
 
 ## Contact
 
